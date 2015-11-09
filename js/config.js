@@ -28,9 +28,9 @@ var config = {
             'Looking good today!'
         ],
         evening: [
-            'Wow, you look hot!',
-            'You look nice!',
-            'Hi, sexy!'
+            'Wow, you look hot RJ!',
+            'Nice Choice!',
+            'Go to bed!'
         ]
     },
     calendar: {
