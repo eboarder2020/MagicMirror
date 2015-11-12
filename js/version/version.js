@@ -1,5 +1,5 @@
 var version = {
-	updateInterval: 60000,
+	updateInterval: 600000,
 	intervalId: null
 }
 
