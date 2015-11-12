@@ -29,7 +29,7 @@ var config = {
         ],
         evening: [
             'Wow, you look hot RJ!',
-            'Nice Choice!',
+            'TEST!',
             'Go to bed!'
         ]
     },
